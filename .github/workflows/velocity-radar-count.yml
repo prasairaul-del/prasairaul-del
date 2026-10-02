@@ -5,7 +5,7 @@ permissions:
   id-token: write
 jobs:
   count:
-    uses: AIMLPM/velocity-radar-count/.github/workflows/count.yml@33e993618d8583e7aa329422aac458e85be8d73b # v7
+    uses: AIMLPM/velocity-radar-count/.github/workflows/count.yml@ac79a3daf28835d6ac34d8ccf0576da00fd5be84 # v8
     with:
       timezone: Asia/Dubai
     secrets:
